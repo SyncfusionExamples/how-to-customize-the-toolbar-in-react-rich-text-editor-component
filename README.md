@@ -15,4 +15,4 @@ Make sure that you have the latest versions of NodeJS and Visual Studio Code in 
 
 To run this application, you need to clone the how-to-customize-the-toolbar-in-react-rich-text-editor-component repository and then open it in Visual Studio Code. Now, simply install all the necessary react packages into your current project using the `npm install` command and run your project using the `npm start` command.
 
-
+>Looking for the full React Rich Text Editor component overview, features, pricing, and documentation? Visit the [React Rich Text Editor](https://www.syncfusion.com/react-components/react-rich-text-editor) page.
